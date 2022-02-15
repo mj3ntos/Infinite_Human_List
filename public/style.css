@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+
+}
+body{
+    display: flex;
+    text-align: center;
+
+}
+
+.SinglePersonDiv{
+    border: 1px solid black;
+}
